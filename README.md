@@ -25,7 +25,7 @@ Dieses Tool richtet sich an Freelancer, die lokal Rechnungen erstellen, verwalte
 | ------------------------------------------- | ------------- | -------- |
 | 📁 Projektstruktur anlegen                  | 1h            | \[x]     |
 | 🛠️ Datenbankmodell definieren               | 1h            | \[x]     |
-| 🔗 Datenbank-Anbindung (MariaDB) einrichten | 1h            | \[ ]     |
+| 🔗 Datenbank-Anbindung (MariaDB) einrichten | 1h            | \[x]     |
 | 👥 Kundenverwaltung implementieren          | 2h            | \[x]     |
 | 🧾 Rechnungserstellung (inkl. Nummernlogik) | 2h            | \[x]     |
 | ✍️ Eingabemaske für Leistungen und Preise   | 1.5h          | \[x]     |
