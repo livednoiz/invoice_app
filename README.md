@@ -23,18 +23,18 @@ Dieses Tool richtet sich an Freelancer, die lokal Rechnungen erstellen, verwalte
 
 | 🧩 Meilenstein                              | ⏳ Zeitaufwand | ✅ Status |
 | ------------------------------------------- | ------------- | -------- |
-| 📁 Projektstruktur anlegen                  | 1h            |  [x]     |
-| 🛠️ Datenbankmodell definieren               | 1h            |  [x]     |
-| 🔗 Datenbank-Anbindung (MariaDB) einrichten | 1h            |  [ ]     |
-| 👥 Kundenverwaltung implementieren          | 2h            |  [x]     |
-| 🧾 Rechnungserstellung (inkl. Nummernlogik) | 2h            |  [x]     |
-| ✍️ Eingabemaske für Leistungen und Preise   | 1.5h          |  [x]     |
-| 📄 HTML-Rechnungstemplate erstellen         | 2h            |  [ ]     |
-| 📤 PDF-Export via WeasyPrint integrieren    | 1.5h          |  [x]     |
-| 🖥️ Terminal-UI (basic CLI) bauen            | 2h            |  [ ]     |
-| 🧪 Tests & Debugging                        | 2h            |  [ ]     |
-| 📦 Ausgabeordner für PDFs                   | 0.5h          |  [ ]     |
-| 🧰 Setup-Skript / Installationsanleitung    | 1h            |  [ ]     |
+| 📁 Projektstruktur anlegen                  | 1h            | \[x]     |
+| 🛠️ Datenbankmodell definieren               | 1h            | \[x]     |
+| 🔗 Datenbank-Anbindung (MariaDB) einrichten | 1h            | \[ ]     |
+| 👥 Kundenverwaltung implementieren          | 2h            | \[x]     |
+| 🧾 Rechnungserstellung (inkl. Nummernlogik) | 2h            | \[x]     |
+| ✍️ Eingabemaske für Leistungen und Preise   | 1.5h          | \[x]     |
+| 📄 HTML-Rechnungstemplate erstellen         | 2h            | \[ ]     |
+| 📤 PDF-Export via WeasyPrint integrieren    | 1.5h          | \[x]     |
+| 🖥️ Terminal-UI (basic CLI) bauen            | 2h            | \[ ]     |
+| 🧪 Tests & Debugging                        | 2h            | \[ ]     |
+| 📦 Ausgabeordner für PDFs                   | 0.5h          | \[ ]     |
+| 🧰 Setup-Skript / Installationsanleitung    | 1h            | \[ ]     |
 
 > ⏱️ Gesamtaufwand (geschätzt): **17.5 Stunden**
 
